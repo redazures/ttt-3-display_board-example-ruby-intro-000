@@ -8,7 +8,6 @@ def display_board
   puts "   |   |   "
 end
 
-display_board
 puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
